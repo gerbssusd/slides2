@@ -8,7 +8,7 @@ background: https://cover.sli.dev
 title: Welcome to Slidev
 info: |
   ## Slidev Starter Template
-  Presentation slides for developers.
+  Presentation slides for developers.!!!!
 
   Learn more at [Sli.dev](https://sli.dev)
 # apply unocss classes to the current slide
@@ -634,3 +634,4 @@ class: text-center
 [Documentation](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/resources/showcases)
 
 <PoweredBySlidev mt-10 />
+
